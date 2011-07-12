@@ -1,0 +1,15 @@
+D:\Documents and Settings\sanil.tomar\my documents\visual studio 2010\Projects\Console.Lib\Lib\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\sanil.tomar\my documents\visual studio 2010\Projects\Console.Lib\Lib\bin\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\my documents\visual studio 2010\Projects\Console.Lib\Lib\bin\Release\Console.Lib.pdb
+D:\Documents and Settings\sanil.tomar\my documents\visual studio 2010\Projects\Console.Lib\Lib\obj\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\my documents\visual studio 2010\Projects\Console.Lib\Lib\obj\Release\Console.Lib.pdb
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Console.Lib\Console.Lib\bin\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Console.Lib\Console.Lib\bin\Release\Console.Lib.pdb
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Console.Lib\Console.Lib\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Console.Lib\Console.Lib\obj\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Console.Lib\Console.Lib\obj\Release\Console.Lib.pdb
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Cloak\Console.Lib\bin\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Cloak\Console.Lib\bin\Release\Console.Lib.pdb
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Cloak\Console.Lib\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Cloak\Console.Lib\obj\Release\Console.Lib.dll
+D:\Documents and Settings\sanil.tomar\My Documents\Visual Studio 2010\Projects\Cloak\Console.Lib\obj\Release\Console.Lib.pdb
